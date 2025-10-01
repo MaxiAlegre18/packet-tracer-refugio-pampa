@@ -20,3 +20,5 @@ Este trabajo fue realizado para la materia Sistemas Operativos y Redes I (UNGS).
 - **Protocolos:** RIPv2, VLANs, IPsec, ISAKMP 
 
 ---
+
+![Diagrama de red](./tp_redes.png)
